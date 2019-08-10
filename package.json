@@ -1,0 +1,22 @@
+{
+  "name": "thenessbot",
+  "version": "1.0.0",
+  "description": "Ness (@TheNessBot) is a Telegram bot that makes you in control of the server only using your chat with the bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeIsNotUnix/TheNessBot.git"
+  },
+  "author": "Guilherme Almino Carvalho Faura <guilhermeisnotunix@gmail.com> (https://guilhermeisnotunix.github.io)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/GuilhermeIsNotUnix/TheNessBot/issues"
+  },
+  "homepage": "https://github.com/GuilhermeIsNotUnix/TheNessBot#readme",
+  "dependencies": {
+    "telegraf": "^3.32.0"
+  }
+}
