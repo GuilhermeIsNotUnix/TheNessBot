@@ -1,2 +1,2 @@
 # TheNessBot
-Ness (@TheNessBot) é um bot de Telegram que faz você controlar o servidor usando seu chat apenas com o bot
+TheNessBot é um bot de Telegram que permite você controlar o servidor usando apenas seu chat com o bot
